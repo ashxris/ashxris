@@ -4,7 +4,6 @@ I'm **Ashwin**, a 2nd-year B.Tech student specializing in **CSE-AIML**. My passi
 
 ## About Me
 
-- 🔭 Currently working in **web development and design (UI/UX)**.
 - 🌱 Learning and practicing **advanced DSA problems**.
 - 👯 Looking to collaborate in **hackathons**.
 - 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ashxris/).
